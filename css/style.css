@@ -397,7 +397,7 @@ html {
 }
 .super-app-title {
   font-size: 2rem;
-  margin: 0 1rem;
+  margin:1rem;
 }
 .super-app-descp {
   margin: 0 1rem;
@@ -471,7 +471,7 @@ html {
 }
 @media screen and (max-width:500px) {
   .super-part2{
-    margin-top: 13rem;
+    margin-top: 7rem;
   }
 
 }
